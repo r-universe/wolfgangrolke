@@ -8,6 +8,11 @@
 	url = https://github.com/cran/R2sample
 	shallow = true
 	registered = true
+[submodule "Rgof"]
+	path = Rgof
+	url = https://github.com/cran/Rgof
+	shallow = true
+	registered = true
 [submodule "simgof"]
 	path = simgof
 	url = https://github.com/cran/simgof
