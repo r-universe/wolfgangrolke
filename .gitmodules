@@ -8,6 +8,9 @@
 [submodule "Rgof"]
 	path = Rgof
 	url = https://github.com/cran/Rgof
+[submodule "moodlequizR"]
+	path = moodlequizR
+	url = https://github.com/cran/moodlequizR
 [submodule "simgof"]
 	path = simgof
 	url = https://github.com/cran/simgof
