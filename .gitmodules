@@ -5,6 +5,9 @@
 [submodule "MD2sample"]
 	path = MD2sample
 	url = https://github.com/cran/MD2sample
+[submodule "MDgof"]
+	path = MDgof
+	url = https://github.com/cran/MDgof
 [submodule "R2sample"]
 	path = R2sample
 	url = https://github.com/cran/R2sample
