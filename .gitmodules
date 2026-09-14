@@ -17,6 +17,3 @@
 [submodule "moodlequizR"]
 	path = moodlequizR
 	url = https://github.com/cran/moodlequizR
-[submodule "simgof"]
-	path = simgof
-	url = https://github.com/cran/simgof
