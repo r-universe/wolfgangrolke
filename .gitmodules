@@ -11,6 +11,9 @@
 [submodule "R2sample"]
 	path = R2sample
 	url = https://github.com/cran/R2sample
+[submodule "RChiSquare"]
+	path = RChiSquare
+	url = https://github.com/cran/RChiSquare
 [submodule "Rgof"]
 	path = Rgof
 	url = https://github.com/cran/Rgof
